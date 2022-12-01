@@ -18,16 +18,16 @@ mainSections = ["samples"]
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
   logo = "https://i.ibb.co/PhZ1yzF/chris-haines-seo-logo.webp"
-  showTitle = false
+  showTitle = true
 
 [footer]
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
-  layout = "custom" # valid options: page, profile, custom
+  layout = "page" # valid options: page, profile, custom
   showRecent = true
 
 [article]
@@ -37,7 +37,7 @@ mainSections = ["samples"]
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/jpanther/congo/tree/dev/exampleSite/content/"
+  editURL = "#"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
@@ -47,7 +47,7 @@ mainSections = ["samples"]
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+  # sharingLinks = ["twitter","linkedin","email"]
 
 [list]
   showBreadcrumbs = true
