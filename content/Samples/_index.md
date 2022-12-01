@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-description: "See what's possible with Congo."
+description: "Chris Haines' Blog"
 
 cascade:
   showEdit: false
@@ -8,11 +8,10 @@ cascade:
 ---
 
 {{< lead >}}
-Congo brings your content to life. :heart_eyes:
+Check out my blog :heart_eyes:
 {{< /lead >}}
 
-This section contains some demo pages that show how Congo renders different types of content. You can also see an example [taxonomy listing]({{< ref "tags" >}}) page.
-
-_**Sidenote:** This page is just a standard Congo article listing and Hugo has been configured to generate a `samples` content type and display article summaries._
+This is more content here
+_**Sidenote:** This is an example side note where I can put stuff_
 
 ---
