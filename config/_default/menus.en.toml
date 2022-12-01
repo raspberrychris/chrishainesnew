@@ -23,7 +23,7 @@
   
 [[main]]
   name = "SEO Services"
-  url = "seo-services"
+  pageRef = "seo-services"
   weight = 30
 
 

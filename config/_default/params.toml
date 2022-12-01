@@ -17,7 +17,7 @@ mainSections = ["samples"]
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  logo = "chris-haines-logo.png"
+  logo = "resources/_gen/images/chris-haines-logo.png"
   showTitle = true
 
 [footer]
