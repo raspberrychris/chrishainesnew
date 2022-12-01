@@ -17,10 +17,10 @@ Real websites that are built with Congo.
 
 | Website                                                                | Details                      |
 | ---------------------------------------------------------------------- | ---------------------------- |
-| [jamespanther.com](https://jamespanther.com)                           | Personal site - Theme author |
-| [antoinesoetewey.com](https://antoinesoetewey.com/)                    | Personal site                |
-| [leif.io](https://leif.io/)                                            | Personal site and Tech blog  |
-| [dr460nf1r3.org](https://dr460nf1r3.org/)                              | Personal site and Blog       |
+| ✅ [jamespanther.com](https://jamespanther.com)                           | Personal site - Theme author |
+| ✅ [antoinesoetewey.com](https://antoinesoetewey.com/)                    | Personal site                |
+| ✅ [leif.io](https://leif.io/)                                            | Personal site and Tech blog  |
+| ✅ [dr460nf1r3.org](https://dr460nf1r3.org/)                              | Personal site and Blog       |
 | [OCram85.com](https://ocram85.com)                                     | Personal site and Blog       |
 | [mackiser.github.io](https://mackiser.github.io)                       | Personal site and Blog       |
 | [jamesmillner.dev](https://jamesmillner.dev)                           | Personal site and Blog       |
