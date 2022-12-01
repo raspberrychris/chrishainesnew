@@ -5,6 +5,7 @@ draft: false
 description: "All the front matter variables available in Congo."
 slug: "getting-started"
 tags: ["installation", "docs"]
+draft: true
 ---
 
 {{< alert >}}

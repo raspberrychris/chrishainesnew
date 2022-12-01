@@ -5,6 +5,7 @@ draft: false
 description: "All the front matter variables available in Congo."
 slug: "front-matter"
 tags: ["front matter", "config", "docs"]
+draft: true
 ---
 
 In addition to the [default Hugo front matter parameters](https://gohugo.io/content-management/front-matter/#front-matter-variables), Congo adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.

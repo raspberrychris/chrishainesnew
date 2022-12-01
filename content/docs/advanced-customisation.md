@@ -5,6 +5,7 @@ draft: false
 description: "Learn how to build Congo manually."
 slug: "advanced-customisation"
 tags: ["advanced", "css", "docs"]
+draft: true
 ---
 
 There are many ways you can make advanced changes to Congo. Read below to learn more about what can be customised and the best way of achieving your desired result.

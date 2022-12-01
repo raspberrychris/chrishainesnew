@@ -5,6 +5,7 @@ draft: false
 description: "How to install the Congo theme."
 slug: "installation"
 tags: ["installation", "docs"]
+draft: true
 ---
 
 Simply follow the standard Hugo [Quick Start](https://gohugo.io/getting-started/quick-start/) procedure to get up and running quickly.

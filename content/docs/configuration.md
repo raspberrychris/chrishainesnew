@@ -5,6 +5,7 @@ draft: false
 description: "All the configuration variables available in Congo."
 slug: "configuration"
 tags: ["config", "docs"]
+draft: true
 ---
 
 Congo is a highly customisable theme and uses some of the latest Hugo features to simplify how it is configured.
