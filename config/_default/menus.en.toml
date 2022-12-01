@@ -13,17 +13,17 @@
 
 [[main]]
   name = "Blog"
-  pageRef = "samples"
+  pageRef = "blog"
   weight = 10
 
 [[main]]
-  name = "Users"
-  pageRef = "users"
+  name = "About"
+  pageRef = "About"
   weight = 20
   
 [[main]]
-  name = "GitHub"
-  url = "#"
+  name = "SEO Services"
+  url = "seo-services"
   weight = 30
 
 

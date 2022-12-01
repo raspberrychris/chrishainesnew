@@ -1,9 +1,9 @@
 ---
-title: "Users"
+title: "About"
 date: 2020-08-14
 draft: false
 description: "Some real-life Congo examples."
-slug: "users"
+slug: "About"
 tags: ["users", "sample"]
 showDate: false
 showAuthor: false
