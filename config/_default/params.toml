@@ -17,7 +17,7 @@ mainSections = ["samples"]
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  logo = "https://i.ibb.co/PhZ1yzF/chris-haines-seo-logo.webp"
+  logo = "chris-haines-logo.png"
   showTitle = true
 
 [footer]

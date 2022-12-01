@@ -8,7 +8,7 @@ rtl = false
 title = "Chris Haines"
 # logo = "https://i.ibb.co/PhZ1yzF/chris-haines-seo-logo.webp"
 description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-copyright = "&copy; 2022 Congo contributors"
+copyright = "&copy; 2022 Chris Haines"
 
 dateFormat = "2 January 2006"
 
