@@ -1,4 +1,4 @@
 User-agent: 
 Disallow:/tags/*
 
-Sitemap:
+Sitemap: https://chrishaines.uk/sitemap.xml
