@@ -5,21 +5,20 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Chris Haines"
-# logo = "https://i.ibb.co/PhZ1yzF/chris-haines-seo-logo.webp"
-description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-copyright = "&copy; 2022 Chris Haines"
+title = "Chris Haines - SEO Consultant"
+logo = "/img/chris-haines-logo.png"
+description = "Chris Haines is an SEO Consultant with over 10 years experience"
+copyright = "&copy; 2022 Chris Haines. All Rights Reserved."
 
 dateFormat = "2 January 2006"
 
 [author]
   name = "Chris Haines"
-  image = "/images/author2.png"
+  image = "img/chris2.png"
   headline = "Not your ordinary theme!"
-  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  bio = "Chris is an SEO consultant and has been working in SEO for over 10 years. When not involved in SEO Chris enjoys messing around with vintage synthesizers."
   links = [
-    { twitter = "https://twitter.com/" },
-    { facebook = "https://facebook.com/" },
-    { linkedin = "https://linkedin.com/" },
+    { twitter = "https://twitter.com/chris_at_b449" },
+    { linkedin = "https://uk.linkedin.com/in/london-seo-consultant-chris-haines" },
     { youtube = "https://youtube.com/" },
   ]

@@ -10,15 +10,15 @@ defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = true
-enableCodeCopy = true
+enableCodeCopy = false
 
-mainSections = ["samples"]
-# robots = ""
+mainSections = ["blog"]
+robots = "false"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  logo = "resources/_gen/images/chris-haines-logo.png"
-  showTitle = true
+  logo = "/img/chris-haines-logo.png"
+  showTitle = false
 
 [footer]
   showCopyright = true
@@ -32,7 +32,7 @@ mainSections = ["samples"]
 
 [article]
   showDate = true
-  showDateUpdated = false
+  showDateUpdated = true
   showAuthor = true
   showBreadcrumbs = true
   showDraftLabel = true
@@ -51,9 +51,9 @@ mainSections = ["samples"]
 
 [list]
   showBreadcrumbs = true
-  showSummary = false
+  showSummary = true
   showTableOfContents = true
-  showTaxonomies = false
+  showTaxonomies = true
   groupByYear = false
   paginationWidth = 1
 

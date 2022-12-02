@@ -1,52 +1,50 @@
 ---
-title: "SEO Services"
-date: 2020-08-15
+title: "SEO Services 📈"
+date: 2022-12-01
 draft: false
-description: "Some real-life Congo examples."
+description: ""
 slug: "seo-services"
-tags: ["users", "sample"]
+tags: ["SEO", "Services"]
 showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
 ---
+![seo-services](/img/seo-services.png) 
+{{< alert >}}
+**Services 👇**
+{{< /alert >}}
 
-{{< lead >}}
-Real websites that are built with Congo.
-{{< /lead >}}
+## <span style="color: #FD8803">Services</span>
 
-| Website                                                                | Details                      |
-| ---------------------------------------------------------------------- | ---------------------------- |
-| ✅ [jamespanther.com](https://jamespanther.com)                           | Personal site - Theme author |
-| ✅ [antoinesoetewey.com](https://antoinesoetewey.com/)                    | Personal site                |
-| ✅ [leif.io](https://leif.io/)                                            | Personal site and Tech blog  |
-| ✅ [dr460nf1r3.org](https://dr460nf1r3.org/)                              | Personal site and Blog       |
-| [OCram85.com](https://ocram85.com)                                     | Personal site and Blog       |
-| [mackiser.github.io](https://mackiser.github.io)                       | Personal site and Blog       |
-| [jamesmillner.dev](https://jamesmillner.dev)                           | Personal site and Blog       |
-| [jeremic.ca](https://jeremic.ca)                                       | Personal site and Blog       |
-| [rohn.tech](https://rohn.tech)                                         | Personal site                |
-| [klimafreundlicher-kochen.de](https://www.klimafreundlicher-kochen.de) | Food blog (in German)        |
-| [seyslee.github.io](https://seyslee.github.io)                         | Tech blog (in Korean)        |
-| [datanalyze.be](https://datanalyze.be/)                                | Professional site            |
-| [sneaky-potato.github.io](https://sneaky-potato.github.io/)            | Professional site and Blog   |
-| [kelset.dev](https://kelset.dev)                                       | Personal site                |
-| [docteurelsavancaster.com](https://docteurelsavancaster.com/)          | Professional site            |
-| [ruihao-li.github.io](https://ruihao-li.github.io/)                    | Personal site and Blog       |
-| [phalanxhead.dev](https://phalanxhead.dev)                             | Personal site and Blog       |
-| [Bible Multi Apps](https://hotlittlewhitedog.gitlab.io/biblemulti)     | Personal site and Blog       |
-| [Jh123x](https://jh123x.com/)                                          | Personal site and Blog       |
-| [sforzando LLC. and Inc.](https://sfz.dev/)                            | Corporate site and Blog      |
-| [aidansmith.me](https://aidansmith.me/)                                | Personal Site                |
-| [nunocoracao.com](https://nunocoracao.com)                             | Personal site and Blog       |
-| [szegedkungfu.hu](https://balance-se.github.io/)                       | Sports association site      |
-| [jcransom.com](https://www.jcransom.com/)                              | Personal Site and Blog       |
-| [cbrincoveanu.com](https://www.cbrincoveanu.com/)                      | Personal site and Blog       |
-| [medical-humanities](https://medical-humanities.org)                   | Academic site                |
-| [boyersnet.com](https://boyersnet.com)                                 | Personal site and Blog       |
-| [major.io](https://major.io)                                           | Personal site and Blog       |
-| [bayas.dev](https://bayas.dev)                                         | Personal site and Blog       |
-| [顾宇的博客](https://www.guyu.me/)                                     | Personal Blog (in Chinese)   |
-| [cgutierr-zgz.github.io](https://cgutierr-zgz.github.io/)              | Personal site and Tech blog  |
+### Technical SEO 
 
-**Congo user?** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users.md).
+- Site Audits
+- International SEO
+- Site Speed Optimization
+- Structured Data
+- Internal Linking
+- Javascript SEO
+
+--- 
+
+### Content
+
+- Keyword Research
+- Content Writing
+
+---
+
+### SEO Strategy
+
+- Competitor Analysis
+- Penalty Recovery
+
+---
+
+### SEO Reporting
+
+- Dashboard Reporting
+
+---
+

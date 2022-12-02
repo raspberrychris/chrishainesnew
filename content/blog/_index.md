@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Blog 📝"
 description: "Chris Haines' Blog"
 
 cascade:
@@ -11,7 +11,6 @@ cascade:
 Check out my blog :heart_eyes:
 {{< /lead >}}
 
-This is more content here
-_**Sidenote:** This is an example side note where I can put stuff_
+_**Sidenote:** Collection of musings on remote work, SEO, affiliate marketing and technology_
 
 ---
