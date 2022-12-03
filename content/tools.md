@@ -22,7 +22,7 @@ toc: true
 
 ## Ahrefs
 
-![ahrefs](/img/Ahrefs.jpg)
+![ahrefs](/img/ahrefs.jpg)
 <center>{{< button href="https://ahrefs.com/" target="Ahrefs" >}}
 Ahrefs 👉
 {{< /button >}}</right>
