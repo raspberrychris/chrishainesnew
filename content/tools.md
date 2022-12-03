@@ -56,7 +56,7 @@ Google Search Console 👉
 
 ## Google Looker Studio
 ![Google Looker Console](/img/google-looker-studio.png)
-<center>{{< button href="" target="Google Looker Studio" >}}
+<center>{{< button href="https://lookerstudio.google.com/overview" target="Google Looker Studio" >}}
 Google Looker Studio 👉
 {{< /button >}}</right>
 
@@ -76,6 +76,7 @@ Notion 👉
 <center>{{< button href="https://slack.com/" target="slack" >}}
 Slack 👉
 {{< /button >}}</right>
+
 ---
 
 {{< lead >}}
