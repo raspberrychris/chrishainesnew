@@ -1,14 +1,16 @@
 ---
-title: "About 👨"
-date: 2020-08-14
-draft: false
-description: "Some real-life Congo examples."
-slug: "About"
-tags: ["users", "sample"]
+title: "About \U0001F468"
+date: 2022-12-02T15:00:00+00:00
+description: 'About Chris Haines SEO Consultant '
+slug: About
+tags:
+- users
+- sample
 showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
+
 ---
 <center>
 
@@ -38,27 +40,20 @@ Don't forget to follow me on [Twitter](https://twitter.com/chris_at_b449) and [M
 
 This is not a definitive list of clients that I have worked with but gives you an idea of the type of enterprise clients I have worked on in the past.  For the majority of these SEO campaigns I was leading the SEO strategy.
 
-
-| Client                                                                | Details                      |
-| ---------------------------------------------------------------------- | ---------------------------- |
-| [Emirates](#)                                                          | Leading SEO Campaign |
-| [Vodafone](#)                                                          | Leading SEO Campaign                |
-| [ASDA.com](#)                                                          | Leading SEO Campaign  |
-| [George.com](#)                                                        | Leading SEO Campaign      |
-| [ASDA Groceries](#)                                                    | Leading SEO Campaign       |
-| [Domestic & General](#)                                                | Leading SEO Campaign       |
-| [Canterbury](#)                                                        | Leading SEO Campaign       |
-| [Lipsy](#)                                                             | Leading SEO Campaign       |
-| [Randstad](#)                                                          | Part of SEO team             |
-
-
+| Client | Details |
+| --- | --- |
+| Emirates | Leading SEO Campaign |
+| Vodafone | Leading SEO Campaign |
+| ASDA.com | Leading SEO Campaign |
+| George.com | Leading SEO Campaign |
+| ASDA Groceries | Leading SEO Campaign |
+| Domestic & General | Leading SEO Campaign |
+| Canterbury | Leading SEO Campaign |
+| Lipsy | Leading SEO Campaign |
+| Randstad | Part of SEO team |
 
 ## Current Projects
 
-I am running a number of affiliate sites at the moment and also have an interest in music technology.
+I am running a number of affiliate sites at the moment and also have an interest in music technology. 
 
-
-
-
-
-
+I use Max MSP and Ableton Live as well as Reason and Logic to make electronic music.
