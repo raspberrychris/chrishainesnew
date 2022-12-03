@@ -1,7 +1,9 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+	ignore = dirty
 [submodule "themes/congo"]
 	path = themes/congo
 	url = https://github.com/jpanther/congo.git
 	branch = stable
+	ignore = dirty
