@@ -49,22 +49,37 @@ Google Trends 👉
 ## Google Search Console
 ![Google Search Console](/img/google-search-console.jpg)
 <center>{{< button href="https://search.google.com/search-console/about" target="Google Search Console" >}}
-Google Trends 👉
+Google Search Console 👉
 {{< /button >}}</right>
 
 ---
 
 ## Google Looker Studio
+![Google Looker Console](/img/google-looker-studio.png)
+<center>{{< button href="" target="Google Looker Studio" >}}
+Google Looker Studio 👉
+{{< /button >}}</right>
 
 
 {{< lead >}}
 ## Below is a list of my favourite <span style="color: #FD8803">Productivity tools</span>
 {{< /lead >}}
 
+## Notion
+![Notion](/img/notion.png)
+<center>{{< button href="https://www.notion.so/" target="notion" >}}
+Notion 👉
+{{< /button >}}</right>
+
+## Slack
+![slack](/img/slack.png)
+<center>{{< button href="https://slack.com/" target="slack" >}}
+Slack 👉
+{{< /button >}}</right>
 ---
 
 {{< lead >}}
-## Below is a list of my favourite <span style="color: #FD8803">Recommended Hosting</span>
+## Below is a list of my <span style="color: #FD8803">Recommended Hosting</span>
 {{< /lead >}}
 
 ## Blue Host
