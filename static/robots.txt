@@ -1,4 +1,5 @@
-User-agent: 
-Disallow:/tags/*
+User-agent: *
+Disallow: /tags/*
+Disallow: /img/*
 
 Sitemap: https://chrishaines.uk/sitemap.xml
