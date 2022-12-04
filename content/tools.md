@@ -84,6 +84,23 @@ Notion 👉
 Slack 👉
 {{< /button >}}</right>
 
+
+{{< lead >}}
+## Below is a list of my favourite <span style="color: #FD8803">Web Development tools</span>
+{{< /lead >}}
+
+## Visual Studio Code
+![vsc](/img/visual-studio-code.png)
+<center>{{< button href="https://code.visualstudio.com/" target="vsc" >}}
+Visual Studio Code 👉
+{{< /button >}}</right>
+
+## Hugo
+![hugo](/img/hugo.png)
+<center>{{< button href="https://gohugo.io/" target="hugo" >}}
+Hugo 👉
+{{< /button >}}</right>
+
 ---
 
 {{< lead >}}
@@ -113,3 +130,4 @@ WPX 👉
 {{< /button >}}</right>
 
 ---
+
