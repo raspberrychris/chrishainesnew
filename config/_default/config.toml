@@ -4,7 +4,7 @@
 
 theme = "congo"
 defaultContentLanguage = "en"
-
+baseURL = "https://chrishaines.uk"
 enableRobotsTXT = false
 paginate = 15
 summaryLength = 0
