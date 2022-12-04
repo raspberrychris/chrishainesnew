@@ -14,8 +14,6 @@ toc: true
 {{< lead >}}
 SEOs love tools and I am no exception. Below is a list of my favorite SEO, productivity tools and some hosting thrown in for good measure. 
 
-As a partial disclaimer, I do host the majority of my websites on Github now, but WPX is probably my most preferred option at the moment when hosting Wordpress sites, in my opinion they still have great customer service. Saying that, I have never had any issues with Bluehost either.
-
 Productivity tools like Notion and Slack are also my bread and butter these days. Notion is great for just about everything when organizing your thoughts and Slack is still for me the best method of communication when remote working.
 {{< /lead >}}
 
