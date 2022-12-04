@@ -19,6 +19,8 @@ showEdit: false
 
 ### Technical SEO 
 
+![technical-seo-services](/img/technical-seo.png) 
+
 - Site Audits
 - International SEO
 - Site Speed Optimization
@@ -30,6 +32,8 @@ showEdit: false
 
 ### Content
 
+![content-services](/img/content.png) 
+
 - Keyword Research
 - Content Writing
 
@@ -37,12 +41,16 @@ showEdit: false
 
 ### SEO Strategy
 
+![seo-strategy-services](/img/seo-strategy.png) 
+
 - Competitor Analysis
 - Penalty Recovery
 
 ---
 
 ### SEO Reporting
+
+![seo-reporting-services](/img/seo-reporting.png) 
 
 - Dashboard Reporting
 
