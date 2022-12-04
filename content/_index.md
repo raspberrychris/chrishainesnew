@@ -38,3 +38,5 @@ Contact me 👉
 **Blog** Check out my latest blog articles below 👇
 {{< /alert >}}
 
+{{ $fact := getJSON "http://cat-fact.herokuapp.com/facts/random" }}
+{{ $fact.text }}
