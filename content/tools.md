@@ -84,6 +84,7 @@ Notion 👉
 Slack 👉
 {{< /button >}}</right>
 
+---
 
 {{< lead >}}
 ## Below is a list of my favourite <span style="color: #FD8803">Web Development tools</span>
