@@ -15,24 +15,7 @@ title = "How far are we away from Her? – Is this the future of search?"
 
 I watched the movie “Her” recently and was interested by the story which was one of the most interesting takes on a love story I think I have watched in recent memory. Although the movie was pretty good, and had me really interested in the story, I was slightly frustrated that the movie didn’t really push any boundaries or seem to make too many big predictions on the future. If anything, I felt it was describing what is very soon to be a reality.
 
-Despite my frustration, the movie did get me thinking, and I started thinking of the possibility that Google and other big tech companies (Microsoft, Apple) potentially see the future of search as Google with a human face, rather than its current text and voice format.
-
-TABLE OF CONTENTS
-
-* [1 Her – the Movie](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#Her_8211_the_Movie)
-* [2 Her – the reality?](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#Her_8211_the_reality)
-* [3 EVIDENCE COMPANIES MAKING MORE EFFORT TO ‘HUMANISE’ SEARCH & PERSONAL ASSISTANT TASKS](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#EVIDENCE_COMPANIES_MAKING_MORE_EFFORTTO_8216HUMANISE8217SEARCH_PERSONAL_ASSISTANT_TASKS)
-* [4 1. Siri Started to develop An (Intelligent) Sense of Humour in recent years](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#1_Siri_Started_to_develop_An_Intelligent_Sense_of_Humour_in_recent_years)
-* [5 2. Basic skill set jobs are rapidly becoming automated by AIs](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#2_Basic_skill_setjobs_are_rapidly_becoming_automatedby_AIs)
-* [6 3. The technology for Virtual assistants to look and react more and more like actual humans is actually here alread.](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#3_The_technology_for_Virtual_assistants_to_look_and_react_more_and_more_like_actual_humans_is_actually_here_alread)
-  * [6.1 The future!](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#The_future)
-  * [6.2 The present! (click on start)](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#The_present_click_on_start)
-* [7 4. Google rebrand to make voice search the central (but future) part of their search engine](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#4Google_rebrand_to_make_voice_search_the_central_but_future_part_of_their_search_engine)
-* [8 5. Windows 10 includes Cortana Voice Search Next to the Windows Icon](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#5_Windows_10_includes_Cortana_Voice_Search_Next_to_the_Windows_Icon)
-* [9 Conclusion](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#Conclusion)
-* [10 Personal Assistant – Dream specifications](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#Personal_Assistant_8211_Dream_specifications)
-* [11 Personal Assistant – Sad reality](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#Personal_Assistant_8211Sad_reality)
-* [12 WHAT WE HAVE AT THE MOMENT](https://web.archive.org/web/20170703093853/http://chrishaines.biz/seo-news/how-far-are-we-away-from-her-is-this-the-future-of-search/#WHAT_WE_HAVE_AT_THE_MOMENT)
+Despite my frustration, the movie did get me thinking, and I started thinking of the possibility that Google and other big tech companies (Microsoft, Apple) potentially see the future of search as Google with a human face, rather than its current text and voice form
 
 ## Her – the Movie
 
