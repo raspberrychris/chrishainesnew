@@ -18,7 +18,7 @@ Contact me 👉
 
 --- 
 
-![take-your-website-to-the-next-level-with-seo](/take-your-website-to-the-next-level-with-seo.png)
+![take-your-website-to-the-next-level-with-seo](/img/take-your-website-to-the-next-level-with-seo.png)
 
 </center>
 <P>
