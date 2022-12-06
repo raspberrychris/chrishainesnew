@@ -14,7 +14,7 @@ toc: true
 
 ![doing-seo-gif](/img/doing-seo.gif)
 
-{{< button href="/contact" target="contact" >}}
+{{< button href="/contact" target="_self" >}}
 Get a free consultation 👉
 {{< /button >}}
 
