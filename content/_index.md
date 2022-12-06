@@ -18,7 +18,7 @@ Contact me 👉
 
 --- 
 
-![photo-of-chris](/chris2.png)
+![take-your-website-to-the-next-level-with-seo](/take-your-website-to-the-next-level-with-seo.png)
 
 </center>
 <P>
