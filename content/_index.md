@@ -18,8 +18,6 @@ Contact me 👉
 
 --- 
 
-![take-your-website-to-the-next-level-with-seo](/img/take-your-website-to-the-next-level-with-seo.png)
-
 </center>
 <P>
 
@@ -30,8 +28,9 @@ Contact me 👉
 - ### 🔗 I have obtained links for my clients on Buzzfeed, The Guardian, Huffington Post and many other places
 - ### 🌐 My work has been featured on leading publications such as Web Designer Magazine, SERoundtable, Search Engine Journal and Ahrefs.
 <P>
-<p>
-
+<center>
+![take-your-website-to-the-next-level-with-seo](/img/take-your-website-to-the-next-level-with-seo.png)
+</center>
 --- 
 
 {{< alert >}}
