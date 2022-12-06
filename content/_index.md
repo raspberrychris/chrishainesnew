@@ -12,6 +12,8 @@ toc: true
 <P>
 <center>
 
+![doing-seo-gif](/img/doing-seo.gif)
+
 {{< button href="/contact" target="contact" >}}
 Get a free consultation 👉
 {{< /button >}}
@@ -34,6 +36,7 @@ Get a free consultation 👉
 ![take-your-website-to-the-next-level-with-seo](/img/take-your-website-to-the-next-level-with-seo.png)
 
 </center>
+
 --- 
 
 {{< alert >}}
