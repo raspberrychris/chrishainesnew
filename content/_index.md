@@ -12,8 +12,8 @@ toc: true
 <P>
 <center>
 
-{{< button href="contact" target="contact" >}}
-Contact me 👉
+{{< button href="/contact" target="contact" >}}
+Get a free consultation 👉
 {{< /button >}}
 
 --- 
