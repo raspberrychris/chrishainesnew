@@ -1,13 +1,14 @@
 +++
-date = 2023-01-11T00:00:00Z
+date = 2023-01-11T12:00:00Z
 description = "In this blog post I investigate whether the tfl.gov.uk website has been compromised"
-draft = true
 slug = "tfl-hack"
-tags = ["SEO"]
-title = "TFL Hack?"
+tags = ["TFL", "SEO"]
+title = "TFL Hack - tfl.gov.uk's website compromised?"
 
 +++
 This is a true story about how I stumbled upon an interesting example of a website completely by mistake that I believed had become compromised.
+
+![tfl-homepage-screenshot](/img/tfl-home-page-screenshot.png "TFL Homepage Screenshot")
 
 Although you can stumble upon websites that are compromised, they generally aren't government websites, so I was quite interested to take a look at this site within Ahrefs to see what was going on.
 
