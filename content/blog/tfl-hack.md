@@ -16,7 +16,7 @@ The site in question is tfl.gov.uk. This is a website for Transport for London, 
 
 I alerted TFL to the issue last week, and they took the offending website down almost a week later. (So my guess is—it was compromised.)
 
-Before it was taken down, I decided to make a quick video on the topic to show you what has happened. 
+Before it was taken down, I decided to make a quick video on the topic to show you what has happened.
 
 I am not exactly sure why the site was created, but it is interesting to see that a government website can be hijacked in such a public way and used to help rank other content and sites.
 
@@ -25,3 +25,5 @@ I am not exactly sure why the site was created, but it is interesting to see tha
 {{< vimeo 788074460 >}}
 
 Let me know what you think happened or if you have done any more research into it.
+
+> Update: TFL have now taken down the offending sub-sub domain, so I'm guessing it wasn't something they were aware of.
