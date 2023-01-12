@@ -6,11 +6,11 @@ tags = ["TFL", "SEO"]
 title = "TFL Hack - tfl.gov.uk's website compromised?"
 
 +++
-This is a true story about how I stumbled upon an interesting example of a website completely by mistake that I believed had become compromised.
+This is a true story about how I stumbled upon a website completely by mistake that had become compromised.
 
 ![tfl-homepage-screenshot](/img/tfl-home-page-screenshot.png "TFL Homepage Screenshot")
 
-Although you can stumble upon websites that are compromised, they generally aren't government websites, so I was quite interested to take a look at this site within Ahrefs to see what was going on.
+Although you can stumble upon websites that are compromised every now and then, they generally aren't government websites, so I was quite interested to take a look at this site within Ahrefs to see what was going on.
 
 The site in question is tfl.gov.uk. This is a website for Transport for London, which runs the underground service in London, UK.
 
@@ -24,6 +24,4 @@ I am not exactly sure why the site was created, but it is interesting to see tha
 
 {{< vimeo 788074460 >}}
 
-Let me know what you think happened or if you have done any more research into it.
-
-> Update: TFL have now taken down the offending sub-sub domain, so I'm guessing it wasn't something they were aware of.
+**Let me know what you think happened or if you have done any more research into it.**
