@@ -21,23 +21,37 @@ The site speed sucked.
 
 In fact, almost everything about WordPress...sucked.
 
-I installed too many plugins, and I hated writing in the HTML editor. 
+I'll admit that much of my WordPress bad experience was self-inflicted. I wanted to install ALL the things.
 
-Even if you wanted to use the "classic editor", you had to install another bloody plugin.
+I installed too many plugins.
+
+And when it came to writing, I hated using the HTML editor. 
+
+Even if you wanted to use the "classic editor", you had to install another bloody plugin. 
+
+Jesus.
 
 These are just a few of my grievances with WordPress.
 
-Fast forward to today. I've now been WordPress-free for almost two years.
+Fast forward to today. 
 
-Things are good—check this out.
-
-![](/img/100-score-page-speed-insights-chrishaines-uk.png)
+I'm proud to say that I have been WordPress-free for almost two years.
 
 So what did I switch to?
 
-I switched to Hugo. If you have a simple blog I don't think there are many things that can beat it.
+Hugo.
 
-Ok anyway, we are getting sidetracked. Let's get back to why I hate WordPress in more detail.
+What the hell is that, I hear you say.
+
+My response: Google it.
+
+But if you want to get decent performance scores like this then you too can ditch WordPress and join the revolution.
+
+![](/img/100-score-page-speed-insights-chrishaines-uk.png)
+
+Ok, anyway, we are getting sidetracked. 
+
+Let's get back to why I hate WordPress in a little bit more detail.
 
 ## Why I hate WordPress 
 
@@ -46,3 +60,5 @@ Ok anyway, we are getting sidetracked. Let's get back to why I hate WordPress in
 * Ever had your WordPress account hacked? I have—-I used to use a plugin called Wordfence to stop that from happening, but again adding more plugins slows everything down.
 * SEO plugins—Yoast, Rankmath? They are both great, but sometimes Yoast can mess up like **this**.  
 * Want to get great Core Web Vitals scores—me too. That's what Google wants us to do right? again it takes effort with WordPress and even if you find a template you like, it may not be SEO optimized.
+* Installed a bad plugin by mistake? Oh whoops your site is now down, and you will have to jump into the host to fix it.
+* 
