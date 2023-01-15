@@ -6,17 +6,17 @@ tags = ["SEO", "Site Speed", "CMS", "Hugo", "Wordpress"]
 title = "Why I gave up on Wordpress (And what I switched to)"
 
 +++
-Hello, my name is Chris. 
+Hello, my name is Chris.
 
-I was a WordPress user from \~2009 to 2020. 
+I was a WordPress user from \~2009 to 2020.
 
 But now, I have largely given up using WordPress on my own sites.
 
 Why?
 
-Well, out of the box, the page speed scores sucked. 
+Well, out of the box, the page speed scores sucked.
 
-The site speed sucked. 
+The site speed sucked.
 
 In fact, almost everything about WordPress...sucked.
 
@@ -24,9 +24,9 @@ I'll admit that much of my WordPress bad experience was self-inflicted. I wanted
 
 I installed too many plugins.
 
-And when it came to writing, I hated using the HTML editor. 
+And when it came to writing, I hated using the HTML editor.
 
-Even if you wanted to use the "classic editor", you had to install another bloody plugin. 
+Even if you wanted to use the "classic editor", you had to install another bloody plugin.
 
 [Jesus](https://youtu.be/OBdrd80ora8?t=75).
 
@@ -34,7 +34,7 @@ It's almost as if they tried to design everything to be as difficult as possible
 
 These are just a few of my grievances with WordPress.
 
-Fast forward to today. 
+Fast forward to today.
 
 I'm proud to say that I have been WordPress-free for almost two years.
 
@@ -44,7 +44,7 @@ Hugo, Forestry.io and hosted on Github—all for free.
 
 "What the hell is Hugo?" I hear you say.
 
-My response: Google it. 
+My response: Google it.
 
 > Tip: It's not the Hugo Boss site.
 
@@ -52,11 +52,15 @@ But if you want to get decent performance scores like this, and host your site f
 
 ![pagespeed-insights-performance-score-100-flex](/img/100-score-page-speed-insights-chrishaines-uk.png "My PageSpeed Insights Flex")
 
-Ok, we are getting sidetracked. 
+And here's the GT Metrix score.
+
+![gt-metrix-performance-score-chrishaines-uk](/img/gt-metrix-performance-score-chrishaines-uk.png "Not bad.")
+
+Ok, we are getting sidetracked.
 
 Let's get back to why I hate WordPress in a little bit more detail...
 
-## Why I hate WordPress 
+## Why I hate WordPress
 
 * Okay, so you can get great performance from a WordPress site, but getting the right plugins often takes a lot of effort, knowledge, or money.
 * Plugins—Unless you can code, you will need a lot of plugins for everything. This bloats the CMS and can cause issues.
