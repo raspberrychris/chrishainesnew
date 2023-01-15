@@ -28,7 +28,7 @@ And when it came to writing, I hated using the HTML editor.
 
 Even if you wanted to use the "classic editor", you had to install another bloody plugin. 
 
-Jesus.
+[Jesus](https://youtu.be/OBdrd80ora8?t=75).
 
 It's almost as if they tried to design everything to be as difficult as possible.
 
