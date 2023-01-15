@@ -15,13 +15,13 @@ But now, I have largely given up using WordPress on my own sites.
 
 Why?
 
-Well, the page speed scores sucked. 
+Well, out of the box, the page speed scores sucked. 
 
 The site speed sucked. 
 
 In fact, almost everything about WordPress...sucked.
 
-I'll admit that much of my WordPress bad experience was self-inflicted. I wanted to install ALL the things.
+I'll admit that much of my WordPress bad experience was self-inflicted. I wanted to install **ALL** the things. Also I had a rubbish host.
 
 I installed too many plugins.
 
@@ -31,6 +31,8 @@ Even if you wanted to use the "classic editor", you had to install another blood
 
 Jesus.
 
+It's almost as if they tried to make everything as difficult as possible.
+
 These are just a few of my grievances with WordPress.
 
 Fast forward to today. 
@@ -39,17 +41,19 @@ I'm proud to say that I have been WordPress-free for almost two years.
 
 So what did I switch to?
 
-Hugo.
+Hugo and Forestry.io.
 
-What the hell is that, I hear you say.
+"What the hell is that?" I hear you say.
 
-My response: Google it.
+My response: Google it. 
 
-But if you want to get decent performance scores like this, and host your site for free, then you too can ditch WordPress and join the revolution.
+> Tip: It's not the Hugo Boss site or anything to do with the Forestry Commission
 
-![](/img/100-score-page-speed-insights-chrishaines-uk.png)
+But if you want to get decent performance scores like this, and host your site for free, then you too can ditch WordPress and join the static site revolution.
 
-Ok, anyway, we are getting sidetracked. 
+![pagespeed-insights-performance-score-100-flex](/img/100-score-page-speed-insights-chrishaines-uk.png "My PageSpeed Insights Flex")
+
+Ok, we are getting sidetracked. 
 
 Let's get back to why I hate WordPress in a little bit more detail...
 
@@ -59,8 +63,8 @@ Let's get back to why I hate WordPress in a little bit more detail...
 * Plugins - Unless you can code, you will need a lot of plugins for everything. This bloats the CMS and can cause issues.
 * Ever had your WordPress account hacked? I have—I used to use a plugin called Wordfence to stop that from happening, but again adding more plugins slows everything down.
 * SEO plugins—Yoast, Rankmath? They are both great, but sometimes Yoast can mess up like **this**.  
-* Want to get great Core Web Vitals scores—me too. That's what Google wants us to do right? again it takes effort with WordPress, and even if you find a template you like, it may not be SEO optimized.
-* Installed a bad plugin by mistake? Oh, whoops, your site is now down, and you will have to jump into the host to fix it.
-* Updates. had your WordPress site live for more than a few hours? Chances are you will probably need to update those 30 plugins you have installed and also update to a new version of WordPress.
+* Want to get great Core Web Vitals scores—yeah, me too. That's what Google wants us to do, right? It takes effort with WordPress, and even if you find a template you like, it may not be SEO optimized out of the box.
+* Installed a bad plugin by mistake? Oh, whoops, your site is now down, and you will have to jump into the host to fix it. Lost the password? don't worry you can get it back, but you just have to complete a quick verification.
+* Updates. Had your WordPress site live for more than a few hours? Chances are you will probably need to update those 30 plugins you have installed and also update to a new version of WordPress because the old one is just so lame.
 
 **Sidenote**: I don't really hate WordPress, but I wanted to point out some of the issues that have frustrated me over the years with the platform. 
