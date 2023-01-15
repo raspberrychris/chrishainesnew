@@ -7,27 +7,42 @@ tags = ["SEO", "Site Speed", "CMS", "Hugo", "Wordpress"]
 title = "Why I gave up on Wordpress (And what I switched to)"
 
 +++
-Hello, my name is Chris. I was a longstanding WordPress user from 2009 to 2020. But now I have largely given up using WordPress at least on my own sites.
+Hello, my name is Chris. 
+
+I was a WordPress user from \~2009 to 2020. 
+
+But now, I have largely given up using WordPress on my own sites.
 
 Why?
 
-Well, it's simple. I found something that performed better and was free to host.  Sounds crazy? Hear me out.
+Well, the page speed scores sucked. 
 
-SEOs generally obsess over getting site speed and Core Web Vitals to the 100/100 score, to be honest, I am no different and enjoy
+The site speed sucked. 
 
-During 2020 I started testing other platforms and discovered that out-of-the-box static sites perform way better.
+In fact, almost everything about WordPress...sucked.
 
-Another advantage is that you can host them for free on Github.
+I installed too many plugins, and I hated writing in the HTML editor. 
 
-I am a Hugo user.
+Even if you wanted to use the "classic editor", you had to install another bloody plugin.
 
-What the hell is that, I hear you say.
+These are just a few of my grievances with WordPress.
 
-Well it's what this site is built on.
+Fast forward to today. I've now been WordPress-free for almost two years.
 
-## Why I hate Wordpress now
+Things are good—check this out.
 
-* You can get great performance from a WordPress site but typically it takes a lot of effort and knowledge or money to get the right plugins.
-* Plugins - Unless you can code you will need a lot of plugins for everything. This bloats the CMS and can cause issues.
-* Ever had your WordPress account hacked by pesky Russians? I have—-I used to use a plugin called Wordfence to stop that happening again, but again adding more plugins slows everything down.
-* SEO plugins—Yoast, Rankmath? They are both great, but sometimes Yoast can mess up like this.  
+![](/img/100-score-page-speed-insights-chrishaines-uk.png)
+
+So what did I switch to?
+
+I switched to Hugo. If you have a simple blog I don't think there are many things that can beat it.
+
+Ok anyway, we are getting sidetracked. Let's get back to why I hate WordPress in more detail.
+
+## Why I hate WordPress 
+
+* You _can_ get great performance from a WordPress site, but typically it takes a lot of effort and knowledge, or money to get the right plugins.
+* Plugins - Unless you can code, you will need a lot of plugins for everything. This bloats the CMS and can cause issues.
+* Ever had your WordPress account hacked? I have—-I used to use a plugin called Wordfence to stop that from happening, but again adding more plugins slows everything down.
+* SEO plugins—Yoast, Rankmath? They are both great, but sometimes Yoast can mess up like **this**.  
+* Want to get great Core Web Vitals scores—me too. That's what Google wants us to do right? again it takes effort with WordPress and even if you find a template you like, it may not be SEO optimized.
