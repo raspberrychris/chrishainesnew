@@ -45,20 +45,22 @@ What the hell is that, I hear you say.
 
 My response: Google it.
 
-But if you want to get decent performance scores like this then you too can ditch WordPress and join the revolution.
+But if you want to get decent performance scores like this, and host your site for free, then you too can ditch WordPress and join the revolution.
 
 ![](/img/100-score-page-speed-insights-chrishaines-uk.png)
 
 Ok, anyway, we are getting sidetracked. 
 
-Let's get back to why I hate WordPress in a little bit more detail.
+Let's get back to why I hate WordPress in a little bit more detail...
 
 ## Why I hate WordPress 
 
-* You _can_ get great performance from a WordPress site, but typically it takes a lot of effort and knowledge, or money to get the right plugins.
+* You _can_ get great performance from a WordPress site, but it takes a lot of effort, knowledge, or money to get the right plugins.
 * Plugins - Unless you can code, you will need a lot of plugins for everything. This bloats the CMS and can cause issues.
-* Ever had your WordPress account hacked? I have—-I used to use a plugin called Wordfence to stop that from happening, but again adding more plugins slows everything down.
+* Ever had your WordPress account hacked? I have—I used to use a plugin called Wordfence to stop that from happening, but again adding more plugins slows everything down.
 * SEO plugins—Yoast, Rankmath? They are both great, but sometimes Yoast can mess up like **this**.  
-* Want to get great Core Web Vitals scores—me too. That's what Google wants us to do right? again it takes effort with WordPress and even if you find a template you like, it may not be SEO optimized.
-* Installed a bad plugin by mistake? Oh whoops your site is now down, and you will have to jump into the host to fix it.
-* 
+* Want to get great Core Web Vitals scores—me too. That's what Google wants us to do right? again it takes effort with WordPress, and even if you find a template you like, it may not be SEO optimized.
+* Installed a bad plugin by mistake? Oh, whoops, your site is now down, and you will have to jump into the host to fix it.
+* Updates. had your WordPress site live for more than a few hours? Chances are you will probably need to update those 30 plugins you have installed and also update to a new version of WordPress.
+
+**Sidenote**: I don't really hate WordPress, but I wanted to point out some of the issues that have frustrated me over the years with the platform. 
