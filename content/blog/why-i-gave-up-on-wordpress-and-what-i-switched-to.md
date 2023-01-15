@@ -30,7 +30,7 @@ Even if you wanted to use the "classic editor", you had to install another blood
 
 Jesus.
 
-It's almost as if they tried to make everything as difficult as possible.
+It's almost as if they tried to design everything to be as difficult as possible.
 
 These are just a few of my grievances with WordPress.
 
@@ -61,7 +61,6 @@ Let's get back to why I hate WordPress in a little bit more detail...
 * Okay, so you can get great performance from a WordPress site, but getting the right plugins often takes a lot of effort, knowledge, or money.
 * Plugins—Unless you can code, you will need a lot of plugins for everything. This bloats the CMS and can cause issues.
 * Ever had your WordPress account hacked? I have—I used to use a plugin called Wordfence to stop that from happening, but again adding more plugins slows everything down.
-* SEO plugins—Yoast, Rankmath? They are both great, but sometimes Yoast can mess up like **this**.  
 * Want to get great Core Web Vitals scores—yeah, me too. That's what Google wants us to do, right? It takes effort with WordPress, and even if you find a template you like, it may not be SEO optimized out of the box.
 * Installed a bad plugin by mistake? Oh, whoops, your site is now down, and you will have to jump into the host to fix it. Lost the password? don't worry you can get it back, but you just have to complete a quick identity verification.
 * Updates. Had your WordPress site live for more than a few hours? Chances are you will probably need to update those 30 plugins you installed and also update to a new version of WordPress because the old one is just so lame now.
