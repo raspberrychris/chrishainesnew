@@ -4,7 +4,7 @@ description = ""
 draft = true
 slug = "alternative-search-engines"
 tags = ["Yep", "Google", "Search Engines", "SEO"]
-title = "Alternative Search Engines (Are they worth it?)"
+title = "Alternative Search Engines (What ?)"
 
 +++
 **Alternative search engines are other search engines that you can use instead of Google. They have similar functionality to Google but will bring up different results as they don't share the exact same algorithm.**
@@ -24,7 +24,7 @@ There are a few! I will cover each one in turn.
 
 ## Yep.com
 
-Yep.com is the brainchild of Dmytro 
+Yep.com is one of the most exciting projects out there at the moment. 
 
 With the news that Google is sacking 12,000 of its U.S. staff, it may already mean that people are switching to other search engines or just searching in new ways.
 
