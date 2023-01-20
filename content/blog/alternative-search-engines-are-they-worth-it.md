@@ -18,17 +18,23 @@ When you ask people what other search engines there are, they will probably say 
 * Bing (The elderly person's choice)
 * Duckduckgo (The privacy-conscious person's choice)
 
-And there is nothing wrong with that.
+And there is nothing wrong with that. But what are the other alternatives?
+
+There are a few! I will cover each one in turn.
+
+## Yep.com
+
+Yep.com is the brainchild of Dmytro 
 
 With the news that Google is sacking 12,000 of its U.S. staff, it may already mean that people are switching to other search engines or just searching in new ways.
 
 One of the big stories of 2022 was TikTok being hailed as a search engine mainly by the media for Gen-Z.
 
-Millennials and Boomers were scratching their heads as to how this could work in reality, but it seems that TikTok has started to make strides toward improving their search facility already.
+Millennials and Boomers were scratching their heads as to how this could work in reality, but it seems that TikTok has started to make strides toward improving its search facility already.
 
-## "What about Chat GPT" 
+## "What about Chat GPT?"
 
-We now also have Chat GPT, which is not really a search engine, but more of a search assistant.  What has been interesting is seeing the response from non-tech people using this tool. 
+We now also have Chat GPT, which is not really a search engine, but more of a search assistant.  What has been interesting is seeing the response from non-tech people using this tool.
 
 **People love it.**
 
@@ -36,8 +42,10 @@ We now also have Chat GPT, which is not really a search engine, but more of a se
 
 This is what made Google our number-one choice all those years ago now, it did exactly this, combining ease of use with functionality, but since then, they seem to have prioritized its Ads business model over understanding what people liked about Google in the first place.
 
-Sure, getting a few instant answers in the SERPs is great, but I am not sure anyone really likes the random new SERP features that enter our lives every few years. 
+Sure, getting a few instant answers in the SERPs is great, but I am not sure anyone really likes the random new SERP features that enter our lives every few years.
 
 Google has lost its simplicity of design and, to be honest, just looks cluttered and badly designed.
 
-The crazy thing is that ChapGPT has a similar level of functionality but just without the visual clutter, which makes for a much better experience, in my opinion. 
+The crazy thing is that ChapGPT has a similar level of functionality but just without the visual clutter, which makes for a much better experience, in my opinion.
+
+In a world full of constant distractions, there is something meditative about visiting a website that is clean and easy on the eyes.
