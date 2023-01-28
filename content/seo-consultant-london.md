@@ -18,7 +18,7 @@ showEdit: false
 
 Hi there, names Chris Haines and I’m an SEO Consultant with over 10 years experience in SEO.
 
-I’ve worked with some of the biggest names in the UK and beyond (ASDA, George, Emirates, Randstad, Canterbury NZ, Domestic and General, Vodafone, Nectar to name a few).
+I’ve worked with some of the biggest names in the UK and beyond (ASDA, George, Emirates, Randstad, Canterbury NZ, Domestic and General, Vodafone, Nectar to name a few.
 
 ## FAQs
 What exactly does an SEO Consultant Do?
@@ -54,7 +54,7 @@ If you own a local business looking for a specialised local SEO service o make t
 
 Contact Chris now
 
-{{< button href="contact" target="contact" >}}
+{{< button href="/contact" target="_self" >}}
 Contact me 👉
 {{< /button >}}
 </center>
