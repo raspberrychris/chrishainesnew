@@ -4,7 +4,9 @@ description: "Chris can help you grow your business using proven SEO techniques"
 toc: true
 ---
 <center>
+
 ![chris-haines-seo-london-illustration](/img/chris-haines.webp)
+
 </center>
 {{< lead >}} 
 
