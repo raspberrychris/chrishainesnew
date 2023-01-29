@@ -3,7 +3,9 @@ title: "Grow Your Business with SEO"
 description: "Chris can help you grow your business using proven SEO techniques"
 toc: true
 ---
-
+<center>
+![chris-haines-seo-london-illustration](/img/chris-haines.webp)
+</center>
 {{< lead >}} 
 
 ## Need SEO? I am an <span style="color: #FD8803">SEO Consultant based in London</span>, UK that can help you skyrocket your rankings 🚀
