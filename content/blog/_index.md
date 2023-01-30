@@ -8,7 +8,7 @@ cascade:
 ---
 <center>
 
-![penguin-blogging-laptop-illustration](/img/penguin.jpg)
+![penguin-blogging-laptop-illustration](/img/penguin-blogging.jpg)
 
 </center>
 
