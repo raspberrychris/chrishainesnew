@@ -6,6 +6,11 @@ cascade:
   showEdit: false
   showSummary: true
 ---
+<center>
+
+![penguin-blogging-laptop-illustration](/img/penguin.jpg)
+
+</center>
 
 {{< lead >}}
 Check out my blog :heart_eyes:
