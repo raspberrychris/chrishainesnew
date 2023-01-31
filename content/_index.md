@@ -5,7 +5,7 @@ toc: true
 ---
 <center>
 
-![chris-haines-seo-london-illustration](/img/chris-haines-150.jpg)
+![chris-haines-seo-london-illustration](/img/chris-haines.jpg)
 
 </center>
 {{< lead >}} 
