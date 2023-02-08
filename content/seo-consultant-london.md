@@ -59,7 +59,9 @@ Contact me 👉
 {{< /button >}}
 </center>
 
-## Book a 30 minute consultation
+## Or Book a 30 Minute Consultation
 
-{{< calendly-learn-basics-seo >}}
+If you want to get started with SEO straight away just book a meeting with me below.
+
+{{< calendly-seo-consultation >}}
 
