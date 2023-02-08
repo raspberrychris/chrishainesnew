@@ -69,6 +69,6 @@ Contact me today to learn more about my SEO services and how I can help your bus
 
 
 {{< typography font="notoserif" size="36px" weight="bold" >}}
-You are awesome test. 
+You are awesome test bestl. 
 You're even better! 
 {{< /typography >}}
