@@ -16,6 +16,8 @@ showEdit: false
 ## Are you looking for an SEO consultant in London that can help improve your SEO and help get you top rankings in Google?
 {{< /lead >}}
 
+{{< calendly-learn-basics-seo >}}
+
 Hi there, names Chris Haines and I’m an SEO Consultant with over 10 years experience in SEO.
 
 I’ve worked with some of the biggest names in the UK and beyond (ASDA, George, Emirates, Randstad, Canterbury NZ, Domestic and General, Vodafone, Nectar to name a few.
@@ -58,3 +60,5 @@ Contact Chris now
 Contact me 👉
 {{< /button >}}
 </center>
+
+
