@@ -68,3 +68,7 @@ On-page optimization is critical for ensuring that your website is visible and e
 Contact me today to learn more about my SEO services and how I can help your business succeed online.
 
 
+{{< typography font="monoton" size="36px" weight="bold" >}}
+You are awesome. 
+You're even better! 
+{{< /typography >%}}
