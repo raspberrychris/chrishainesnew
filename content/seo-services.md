@@ -71,4 +71,4 @@ Contact me today to learn more about my SEO services and how I can help your bus
 {{< typography font="monoton" size="36px" weight="bold" >}}
 You are awesome. 
 You're even better! 
-{{< /typography >%}}
+{{< /typography >}}
