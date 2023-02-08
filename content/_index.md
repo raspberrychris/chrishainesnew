@@ -21,8 +21,6 @@ toc: true
 Get a free consultation 👉
 {{< /button >}}
 
-{{< calendly-learn-basics-seo >}}
-
 --- 
 
 </center>
