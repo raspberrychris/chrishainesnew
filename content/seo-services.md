@@ -1,6 +1,6 @@
 ---
 title: "SEO Services 📈"
-date: 2022-12-01
+date: 2023-01-05
 draft: false
 description: ""
 slug: "seo-services"
@@ -9,7 +9,8 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
-showTableOfContents: false
+showTableOfContents: true
+showHeadingAnchors: false
 ---
 ![seo-services](/img/seo-services.png) 
 {{< alert >}}
@@ -20,7 +21,7 @@ I offer a range of SEO services to help improve your online presence and drive m
 
 ## <span style="color: #FD8803">Services</span>
 
-{{< typography font="Space Mono" size="36px" weight="bold" >}}
+## {{< typography font="Space Mono" size="36px" weight="bold" >}}
 Technical SEO
 {{< /typography >}}
 
