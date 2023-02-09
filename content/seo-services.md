@@ -19,7 +19,9 @@ I offer a range of SEO services to help improve your online presence and drive m
 
 ## <span style="color: #FD8803">Services</span>
 
-### Technical SEO 
+{{< typography font="Space Mono" size="36px" weight="bold" >}}
+Technical SEO
+{{< /typography >}}
 
 Technical SEO involves optimizing your website's infrastructure and architecture to improve its performance and user experience. Chris will conduct a technical audit of your website and implement the necessary changes to improve its speed, security, and overall functionality.
 
@@ -34,7 +36,9 @@ Technical SEO involves optimizing your website's infrastructure and architecture
 
 --- 
 
-### Content
+{{< typography font="Space Mono" size="36px" weight="bold" >}}
+Content
+{{< /typography >}}
 
 Keywords are the foundation of any successful SEO campaign. Chris will conduct thorough research to identify the most relevant and valuable keywords for your business, and analyze their performance to determine the best course of action for your SEO efforts.
 
@@ -48,7 +52,9 @@ On-page optimization is critical for ensuring that your website is visible and e
 - On page Optimization
 ---
 
-### SEO Strategy
+{{< typography font="Space Mono" size="36px" weight="bold" >}}
+SEO Strategy
+{{< /typography >}}
 
 ![seo-strategy-services](/img/seo-strategy.png) 
 
@@ -58,7 +64,7 @@ On-page optimization is critical for ensuring that your website is visible and e
 ---
 
 {{< typography font="Space Mono" size="36px" weight="bold" >}}
-### SEO Reporting
+SEO Reporting
 {{< /typography >}}
 
 ![seo-reporting-services](/img/seo-reporting.png) 
