@@ -9,7 +9,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
-showTableOfContents: true
+showTableOfContents: false
 showHeadingAnchors: true
 ---
 ![seo-services](/img/seo-services.png) 
