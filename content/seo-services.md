@@ -54,7 +54,7 @@ On-page optimization is critical for ensuring that your website is visible and e
 - On page Optimization
 ---
 
-## {{% typography font="Space Mono" size="36px" weight="bold" %}}
+## {{<% typography font="Space Mono" size="36px" weight="bold" %>}}
 SEO Strategy
 {{< /typography >}}
 
