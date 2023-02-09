@@ -9,8 +9,8 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
-showTableOfContents: true
-showHeadingAnchors: true
+showTableOfContents: false
+showHeadingAnchors: false
 ---
 ![seo-services](/img/seo-services.png) 
 {{< alert >}}
@@ -21,7 +21,7 @@ I offer a range of SEO services to help improve your online presence and drive m
 
 ## <span style="color: #FD8803">Services</span>
 
-## {{% typography font="Space Mono" size="36px" weight="bold" %}}
+## {{< typography font="Space Mono" size="36px" weight="bold" >}}
 Technical SEO
 {{< /typography >}}
 
@@ -38,7 +38,7 @@ Technical SEO involves optimizing your website's infrastructure and architecture
 
 --- 
 
-## {{% typography font="Space Mono" size="36px" weight="bold" %}}
+## {{< typography font="Space Mono" size="36px" weight="bold" >}}
 Content
 {{< /typography >}}
 
@@ -54,7 +54,7 @@ On-page optimization is critical for ensuring that your website is visible and e
 - On page Optimization
 ---
 
-## {{<% typography font="Space Mono" size="36px" weight="bold" %>}}
+## {{< typography font="Space Mono" size="36px" weight="bold" >}}
 SEO Strategy
 {{< /typography >}}
 
@@ -65,7 +65,7 @@ SEO Strategy
 
 ---
 
-## {{% typography font="Space Mono" size="36px" weight="bold" %}}
+## {{< typography font="Space Mono" size="36px" weight="bold" >}}
 SEO Reporting
 {{< /typography >}}
 
