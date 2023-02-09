@@ -57,9 +57,7 @@ On-page optimization is critical for ensuring that your website is visible and e
 
 ---
 
-### SEO Reporting
-
-### {{< typography font="Space Mono" size="36px" weight="bold" >}}
+{{< typography font="Space Mono" size="36px" weight="bold" >}}
 SEO Reporting
 {{< /typography >}}
 
