@@ -59,6 +59,10 @@ On-page optimization is critical for ensuring that your website is visible and e
 
 ### SEO Reporting
 
+### {{< typography font="Space Mono" size="36px" weight="bold" >}}
+SEO Reporting
+{{< /typography >}}
+
 ![seo-reporting-services](/img/seo-reporting.png) 
 
 - Dashboard Reporting
@@ -68,7 +72,3 @@ On-page optimization is critical for ensuring that your website is visible and e
 Contact me today to learn more about my SEO services and how I can help your business succeed online.
 
 
-{{< typography font="Space Mono" size="36px" weight="bold" >}}
-You are awesome test bestl. 
-You're even better! 
-{{< /typography >}}
