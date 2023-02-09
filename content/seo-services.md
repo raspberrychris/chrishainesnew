@@ -10,7 +10,7 @@ showAuthor: false
 showReadingTime: false
 showEdit: false
 showTableOfContents: true
-showHeadingAnchors: false
+showHeadingAnchors: true
 ---
 ![seo-services](/img/seo-services.png) 
 {{< alert >}}
