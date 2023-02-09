@@ -9,6 +9,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
+showTableOfContents: false
 ---
 ![seo-services](/img/seo-services.png) 
 {{< alert >}}
@@ -36,7 +37,7 @@ Technical SEO involves optimizing your website's infrastructure and architecture
 
 --- 
 
-{{< typography font="Space Mono" size="36px" weight="bold" >}}
+## {{< typography font="Space Mono" size="36px" weight="bold" >}}
 Content
 {{< /typography >}}
 
@@ -52,7 +53,7 @@ On-page optimization is critical for ensuring that your website is visible and e
 - On page Optimization
 ---
 
-{{< typography font="Space Mono" size="36px" weight="bold" >}}
+## {{< typography font="Space Mono" size="36px" weight="bold" >}}
 SEO Strategy
 {{< /typography >}}
 
@@ -63,7 +64,7 @@ SEO Strategy
 
 ---
 
-{{< typography font="Space Mono" size="36px" weight="bold" >}}
+## {{< typography font="Space Mono" size="36px" weight="bold" >}}
 SEO Reporting
 {{< /typography >}}
 
