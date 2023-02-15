@@ -18,7 +18,7 @@ showTableOfContents: false
 ## Are you looking for an SEO consultant in London that can help improve your SEO and help get you top rankings in Google?
 {{< /lead >}}
 
-### {{< typography font="Space Mono" size="34px" weight="bold" >}}
+### {{< typography font="Space Mono" size="24px" weight="bold" >}}
 Hi there, my name's Chris Haines and I’m an SEO Consultant with over 10 years experience in SEO.
 {{< /typography >}}
 
