@@ -19,16 +19,16 @@ showTableOfContents: false
 {{< /lead >}}
 
 ### {{< typography font="Space Mono" size="24px" weight="bold" >}}
-Hi there, my name's Chris Haines and I’m an SEO Consultant with over 10 years experience in SEO.
+👋 Hi there, my name's Chris Haines and I’m an SEO Consultant with over 10 years experience in SEO.
 {{< /typography >}}
 
 I’ve worked with some of the biggest names in the UK and beyond (ASDA, George, Emirates, Randstad, Canterbury NZ, Domestic and General, Vodafone, Nectar to name a few.
 
-## FAQs
+## FAQs 🙋
 What exactly does an SEO Consultant Do?
 An SEO consultant will perform various tasks as part of the SEO campaign such as competitor research, keyword research, keyword gap analysis, SEO auditing, On-page and Off-page SEO, review your taxonomy, optimise your page speed and ensure your core web vitals are up to scratch.
 
-## How much does an SEO Consultant cost?
+## How much does an SEO Consultant cost? 💰
 Some consultants will charge for a single SEO consultation, I offer a free initial consultation with you to understand your business needs and requirements.
 
 ## Is it more cost effective to hire an SEO Consultant?
@@ -37,7 +37,7 @@ Generally speaking SEO Consultants are typically a more cost effective option ra
 ### Monthly Fees
 Both SEO agencies and Consultants will typically charge a fixed monthly fee for their work on your site.
 
-### Expertise
+### Expertise 📈
 With an SEO consultant you will get the expertise and years of experience that that person has, whereas with SEO agencies you can get SEO Executives working on your account with minimal input from the Head of SEO or a Senior SEO within the agency.
 
 ### Learn More
@@ -56,7 +56,7 @@ Whether you need simple changes implemented on your website like meta descriptio
 
 If you own a local business looking for a specialised local SEO service o make that next leap forward. As an SEO Expert in London, I can help you grow your business!
 
-## Contact Chris now
+## Contact Chris now 📱
 
 {{< button href="/contact" target="_self" >}}
 Contact me 👉
