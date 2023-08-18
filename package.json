@@ -1,0 +1,24 @@
+{
+  "name": "chrishaines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raspberrychris/chrishainesnew.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raspberrychris/chrishainesnew/issues"
+  },
+  "homepage": "https://github.com/raspberrychris/chrishainesnew#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.28",
+    "tinacms": "^1.5.19"
+  }
+}

@@ -15,7 +15,7 @@ But there are actually lots of other search engines out there that you can useâ€
 
 When you ask people what other search engines there are, they will probably say something like
 
-* Bing (The elderly person's choice)
+* Bing (The elderly person's choice).
 * Duckduckgo (The privacy-conscious person's choice)
 
 And there is nothing wrong with that. But what are the other alternatives?
