@@ -6,7 +6,7 @@ tags: ["markdown", "css", "html", "sample"]
 draft: true
 ---
 
-This article offers a sample of basic Markdown formatting that can be used in Congo, also it shows how some basic HTML elements are decorated.
+This article offers a sample of basic Markdown formatting that can be used in Congo, also it shows how some basic HTML elements are decorated..
 
 <!--more-->
 
