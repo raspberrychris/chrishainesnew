@@ -1,11 +1,10 @@
-+++
-date = 2023-01-15T12:00:00Z
-description = "Hear me out. Here's why I gave up on Wordpress"
-slug = "why-I-gave-up-on-wordpress"
-tags = ["SEO", "Site Speed", "CMS", "Hugo", "Wordpress"]
-title = "Why I gave up on Wordpress (And what I switched to)"
-
-+++
+---
+date: 2023-01-15T12:00:00Z
+description: "Hear me out. Here's why I gave up on Wordpress"
+slug: "why-I-gave-up-on-wordpress"
+tags: ["SEO", "Site Speed", "CMS", "Hugo", "Wordpress"]
+title: "Why I gave up on Wordpress (And what I switched to)"
+---
 Hello, my name is Chris.
 
 I was a WordPress user from \~2009 to 2020.
