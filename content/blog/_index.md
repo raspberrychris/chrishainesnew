@@ -1,21 +1,21 @@
 ---
-title: "Blog 📝"
-description: "Chris Haines' Blog"
-
+title: "Blog \U0001F4DD"
+description: Chris Haines' Blog
 cascade:
   showEdit: false
   showSummary: true
 ---
+
 <center>
 
 ![penguin-blogging-laptop-illustration](/img/penguin-blogging.jpg)
 
 </center>
 
-{{< lead >}}
-Check out my blog :heart_eyes:
-{{< /lead >}}
+{{\< lead >}}
+Check out my blog :heart\_eyes:
+{{\< /lead >}}
 
-_**Sidenote:** Collection of musings on remote work, SEO, affiliate marketing and technology_
+***Sidenote: Collection of musings on remote work, SEO, affiliate marketing and technology.***
 
----
+***
