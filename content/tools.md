@@ -72,7 +72,7 @@ Google Looker Studio 👉
 
 ## Notion
 ![Notion](/img/notion.png)
-<center>{{< button href="https://www.notion.so/" target="notion" >}}
+<center>{{< button href="https://affiliate.notion.so/j5203o4unho0" target="notion" >}}
 Notion 👉
 {{< /button >}}</right>
 
