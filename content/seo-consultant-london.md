@@ -62,10 +62,3 @@ If you own a local business looking for a specialised local SEO service to make 
 Contact me 👉
 {{< /button >}}
 </center>
-
-## Or book a 30 minute consultation
-
-If you want to get started with SEO straight away just book a meeting with me below.
-
-{{< calendly-seo-consultation >}}
-
