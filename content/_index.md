@@ -10,7 +10,7 @@ toc: true
 </center>
 {{< lead >}} 
 
-## Need SEO? I am an <span style="color: #FD8803">[SEO Consultant in London][/seo-consultant-london/]</span>, UK that can help you skyrocket your Google rankings 🚀
+## Need SEO? I am an <span style="color: #FD8803">![SEO Consultant in London](/seo-consultant-london/)</span>, UK that can help you skyrocket your Google rankings 🚀
 
 {{< /lead >}}
 <P>
