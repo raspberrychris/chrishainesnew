@@ -13,6 +13,7 @@ showTableOfContents: false
 
 ---
 
+![seo-consultant-london](/img/seo-consultant-london.jpg) 
 
 {{< lead >}}
 ## Are you looking for an SEO consultant in London that can help improve your SEO and help get you top rankings in Google?
