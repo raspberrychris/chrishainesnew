@@ -7,15 +7,3 @@ cascade:
   showSummary: false
 ---
 
-<center>
-
-![penguin-blogging-laptop-illustration](/img/penguin-blogging.jpg)
-
-</center>
-
-{{\< lead >}}
-SEO Glossary :heart\_eyes:
-{{\< /lead >}}
-
-
-***
