@@ -2,9 +2,7 @@
 title: Alt Text
 ---
 
-## What is it?
-
-Alt Text (Alternative Text)
+## What is Alt Text (Alternative Text)?
 
 Alt text, also known as alternative text, is a textual description of a non-textual element, such as an image, audio file, or video, that is included in a web page or other digital content. It is designed to provide a textual alternative for users who cannot access or have difficulty accessing the non-textual element, such as users with visual impairments or those who use assistive technologies like screen readers.
 
